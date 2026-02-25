@@ -85,3 +85,11 @@ What is the staging area in Git?
 The staging area in Git (also called the index) is an intermediate area where you prepare changes before committing them to the repository.
 
 Developers generally avoid working directly on the main branch because it’s meant to stay stable, production-ready, and deployable at all times.
+When should developers use git diff?
+git diff is used to see what has changed in your files. Think of it as a preview of your edits before committing.
+
+
+What information does git log show?
+Git log  shows the history of commits in a repository.
+
+
