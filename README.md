@@ -89,6 +89,9 @@ Keeps the full history of both branches.,Safe and simple, especially when collab
 Why do open-source projects use forks?
 Open-source projects use forks so contributors can make changes safely without affecting the original repository. Forks allow developers to experiment, fix bugs, or add features independently, and then submit pull requests to merge their changes after review.
 
+#about log
+Why should log files usually not be stored in Git?
+Log files are not stored in Git because they change frequently, can be large, and are environment-specific. They are not part of the source code.
 
 
 
