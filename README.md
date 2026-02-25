@@ -85,4 +85,10 @@ What is the difference between merge and rebase?
 Combines changes from one branch into another by creating a new “merge commit.”
 Keeps the full history of both branches.,Safe and simple, especially when collaborating.
 
+#defination of open source project
+Why do open-source projects use forks?
+Open-source projects use forks so contributors can make changes safely without affecting the original repository. Forks allow developers to experiment, fix bugs, or add features independently, and then submit pull requests to merge their changes after review.
+
+
+
 
