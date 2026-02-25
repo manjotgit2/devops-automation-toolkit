@@ -80,4 +80,9 @@ Git log  shows the history of commits in a repository.
 pull-:Downloads changes from the remote and automatically merges them into your current branch.
 fetch-:Downloads changes from the remote repository (GitHub or other remote) but does NOT change your local files.
 
+#deffrence between merge and rebase
+What is the difference between merge and rebase?
+Combines changes from one branch into another by creating a new “merge commit.”
+Keeps the full history of both branches.,Safe and simple, especially when collaborating.
+
 
