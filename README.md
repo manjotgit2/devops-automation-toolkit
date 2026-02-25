@@ -83,3 +83,5 @@ origin is just a default name for the remote repository you cloned from.
 
 What is the staging area in Git?
 The staging area in Git (also called the index) is an intermediate area where you prepare changes before committing them to the repository.
+
+Developers generally avoid working directly on the main branch because it’s meant to stay stable, production-ready, and deployable at all times.
