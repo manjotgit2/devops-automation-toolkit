@@ -76,3 +76,8 @@ Connected using:
 8. Forking
         Public: Can be forked by anyone.
         Private: Cannot be forked publicly without permission.
+   What does cloning do?
+Cloning creates a complete copy of an existing Git repository.
+What is origin in Git?
+origin is just a default name for the remote repository you cloned from.
+
