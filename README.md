@@ -81,3 +81,5 @@ Cloning creates a complete copy of an existing Git repository.
 What is origin in Git?
 origin is just a default name for the remote repository you cloned from.
 
+What is the staging area in Git?
+The staging area in Git (also called the index) is an intermediate area where you prepare changes before committing them to the repository.
