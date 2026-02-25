@@ -75,4 +75,9 @@ git diff is used to see what has changed in your files. Think of it as a preview
 What information does git log show?
 Git log  shows the history of commits in a repository.
 
+ #deffrence between fetch and pull
+ What is the difference between:
+pull-:Downloads changes from the remote and automatically merges them into your current branch.
+fetch-:Downloads changes from the remote repository (GitHub or other remote) but does NOT change your local files.
+
 
