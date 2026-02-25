@@ -1,44 +1,24 @@
 # devops-automation-toolkit
-What is a repository?
+1.What is a repository?
 A repository (repo) is a storage location where project files, source code, configuration files, and version history are managed using Git.
 It contains:
-Project files
++Project files
++Commit history
++Branches
++Contributors
 
-
-Commit history
-
-
-Branches
-
-
-Contributors
-
-
-Version tracking (.git directory)
-
-What are the types of repositories?
+#types of repo
+2.What are the types of repositories?
 There are two main types:
 1. Local Repository
 Stored on your computer
-
-
 Created using:
-
  git init
-
-
 Used for development and testing
-
-
 2. Remote Repository
 Hosted on platforms like GitHub
-
-
 Used for collaboration
-
-
 Connected using:
-
  git remote add origin <repository-url>
 
 3.Difference between Public and Private repository.
@@ -75,11 +55,14 @@ Connected using:
 
 8. Forking
         Public: Can be forked by anyone.
-        Private: Cannot be forked publicly without permission.
-   What does cloning do?
+      Private: Cannot be forked publicly without permission.
+
+#demostarte cloning
+What does cloning do?
 Cloning creates a complete copy of an existing Git repository.
 What is origin in Git?
 origin is just a default name for the remote repository you cloned from.
+
 
 What is the staging area in Git?
 The staging area in Git (also called the index) is an intermediate area where you prepare changes before committing them to the repository.
